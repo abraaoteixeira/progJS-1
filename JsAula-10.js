@@ -24,3 +24,9 @@ console.log('vazia: ',!!"");
 console.log('Nan: ', !!NaN);
 console.log('undefined: ',!!undefined);
 console.log('null: ',!!null);
+console.log('Exercício');
+console.log('!7',!7);//false
+console.log('!!7',!!7);//true
+console.log('!!7-7',!!7-7);//true
+console.log('!!(7-7)',!!(7-7));//true
+console.log('!!7-7',!(7-7));//true
