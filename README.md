@@ -2,7 +2,6 @@
 
 ![](https://img.shields.io/github/stars/abraaoteixeira/progJS-1) ![](https://img.shields.io/github/forks/abraaoteixeira/progJS-1) ![](https://img.shields.io/github/tag/abraaoteixeira/progJS-1) ![](https://img.shields.io/github/release/abraaoteixeira/progJS-1) ![](https://img.shields.io/github/issues/abraaoteixeira/progJS-1)
 
-####assinado guilherme
 ## Boleanos
 
     console.log('Situações que retornam verdadeiro: ');
