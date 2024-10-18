@@ -43,3 +43,17 @@ console.log(estudante1)
 console.log('Nota primeiro Trimestre: ', estudante1.notas[0])
 console.log('Nota segundo trimestre: ', estudante1.notas[1])
 console.log('Nota segundo trimestre: ', estudante1.notas[2])
+
+let arvore;
+console.log(arvore, typeof arvore); //undefined, undefined
+/**
+ * Ainda, qualquer variável pode ser esvaziada,
+ * se for definido o valor undefined para ela
+ * O tipo também se tornará undefine.
+ */
+let rio = 'Itajai-mirim'
+rio = ''
+console.log(rio, typeof rio); //undefined, undefined
+/**
+ * Não confundir valores vazios com undefined
+ */
