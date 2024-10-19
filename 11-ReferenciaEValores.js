@@ -28,3 +28,8 @@ multiplicacao(3,4);
 
 const saudacao = texto => console.log(texto);
 saudacao('Por hoje é só pessoal')
+
+const maioridade2 = idade =>
+console.log(idade>=18?'Pode dirigir':
+'Espere pela maioridade'); 
+maioridade2(19)
