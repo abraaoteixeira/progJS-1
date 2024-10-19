@@ -33,3 +33,8 @@ const maioridade2 = idade =>
 console.log(idade>=18?'Pode dirigir':
 'Espere pela maioridade'); 
 maioridade2(19)
+
+const reprovacao = nota =>
+console.log(nota>7?'Está aprovado':
+'Está reprovado');
+reprovacao(7)
